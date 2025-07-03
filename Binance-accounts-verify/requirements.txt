@@ -1,0 +1,12 @@
+timezonefinder
+pytz
+ddddocr
+Pillow
+loguru
+faker
+curl-cffi
+requests
+opencv-python
+numpy
+PyExecJS
+onnxruntime

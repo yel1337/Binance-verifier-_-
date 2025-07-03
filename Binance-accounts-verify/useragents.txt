@@ -1,0 +1,22 @@
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.118 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:118.0) Gecko/20100101 Firefox/118.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.92 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/116.0.1938.69 Chrome/116.0.5845.188 Safari/537.36
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Opera/102.0.4889.52 Chrome/117.0.5938.92 Safari/537.36
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-G991B Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6 Build/SKQ1.211006.001) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/118.0 Mobile
+Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Build/RKQ1.200710.003) AppleWebKit/537.36 (KHTML, like Gecko) CriOS/116.0.5845.97 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mi 11 Build/RKQ1.200710.002) AppleWebKit/537.36 (KHTML, like Gecko) YaBrowser/23.6.0.615 Chrome/117.0.5938.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; ONEPLUS A6010 Build/LE2111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/118.0.5993.90 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/119.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/2.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/125.0.303180808 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/118.0.5993.90 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (iPad; CPU OS 14_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/116.0 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPad; CPU OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15
+Mozilla/5.0 (iPad; CPU OS 12_4_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/46.3.24 Mobile/15E148 Safari/605.1.15
